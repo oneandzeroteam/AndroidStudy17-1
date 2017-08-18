@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.mybusiness.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/barcelonastreet"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="La Cafetería"
+        android:textSize="25sp"
+        android:paddingLeft="20dp"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Barcelona"
+        android:textColor="#EEEEEE"
+        android:textSize="60sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/barcelona_text_view"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drink el café as if you were in Barcelona"
+        android:textSize="20sp"
+        android:textColor="#F0F4C3"
+        android:layout_below="@+id/barcelona_text_view"
+        android:paddingLeft="20dp"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PH 010.8824.6457"
+        android:textSize="20sp"
+        android:textColor="#CDDC39"
+        android:layout_marginBottom="10dp"
+        android:paddingRight="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/phone_text_view" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gaudi Street 124"
+        android:textSize="20sp"
+        android:textColor="#CDDC39"
+        android:layout_above="@id/phone_text_view"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp"
+        android:paddingRight="15dp"
+        android:id="@+id/address_text_view"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open 09:00 - 23:00"
+        android:textSize="20sp"
+        android:layout_marginBottom="10dp"
+        android:paddingRight="15dp"
+        android:textColor="#CDDC39"
+        android:layout_alignParentRight="true"
+        android:layout_above="@id/address_text_view"
+        android:id="@+id/time_text_view"/>
+
+</RelativeLayout>
