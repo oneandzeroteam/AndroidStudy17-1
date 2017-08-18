@@ -26,6 +26,7 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\neroc\.an
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\neroc\.android\build-cache\71adf1778955e0ebef156bcaf86ba619d726648b\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\neroc\.android\build-cache\a3fc90bbb8fd2df63208fd60c6153e1063e6379c\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\neroc\.android\build-cache\95f6b3895068c82e4e9ced7c78080a5840434c07\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\neroc\.android\build-cache\a76007a7dec6b352f6121cd27af93a36b956bd6b\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\neroc\AndroidStudioProjects\KULUB_app\ksk\KULUB\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -68,6 +69,7 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\neroc\.an
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\neroc\.android\build-cache\71adf1778955e0ebef156bcaf86ba619d726648b\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\neroc\.android\build-cache\a3fc90bbb8fd2df63208fd60c6153e1063e6379c\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\neroc\.android\build-cache\95f6b3895068c82e4e9ced7c78080a5840434c07\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\neroc\.android\build-cache\a76007a7dec6b352f6121cd27af93a36b956bd6b\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\neroc\.android\build-cache\8d4ecd69a1b7d8f6018b8d004343801c89502e02\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
