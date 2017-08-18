@@ -12,26 +12,48 @@
         android:layout_height="match_parent"
         android:scaleType="fitXY"
         android:src="@drawable/bakery" />
-
-    <TextView
-        android:id="@+id/contact"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignTop="@id/hour"
-        android:text="contact : 02-123-1234"
-        android:textColor="@android:color/white"
-        android:textSize="30dp" />
-
     <TextView
         android:id="@+id/hour"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:text="hour : 09~24"
+        android:padding="5dp"
+        android:text="Hour : 09~24"
         android:textColor="@android:color/white"
-        android:textSize="30dp" />
+        android:textSize="22dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Yena Pie"
+        android:textColor="@android:color/white"
+        android:textSize="50dp" />
+
+    <TextView
+        android:id="@+id/contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/hour"
+        android:padding="5dp"
+        android:text="Contact : 02-123-1234"
+        android:textColor="@android:color/white"
+        android:textSize="22dp"/>
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/contact"
+        android:padding="5dp"
+        android:text="Addrdss : Dongdaemun-gu Jegi-ro"
+        android:textColor="@android:color/white"
+        android:textSize="22dp"/>
+
+
+
+
 
 
 </RelativeLayout>
