@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\neroc\\.android\\build-cache\\3d6beb6ffed8c65dac96be0ca6f505386af431cd\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
