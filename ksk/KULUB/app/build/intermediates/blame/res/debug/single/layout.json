@@ -36,6 +36,10 @@
         "source": "C:\\Users\\neroc\\.android\\build-cache\\8d4ecd69a1b7d8f6018b8d004343801c89502e02\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
+        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
@@ -64,12 +68,12 @@
         "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\layout\\my_page_layout.xml"
     },
     {
-        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -166,6 +170,10 @@
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_layout.xml",
+        "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\layout\\register_layout.xml"
     },
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",

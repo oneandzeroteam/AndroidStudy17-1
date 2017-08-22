@@ -16,10 +16,6 @@
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
-        "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
-    },
-    {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
@@ -58,6 +54,10 @@
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_black_24dp.xml",
+        "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -134,6 +134,14 @@
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\neroc\\.android\\build-cache\\87371f9d310d8f8cfc963584751cdac85179d4a7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_register_black_24dp.xml",
+        "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\drawable\\ic_register_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_schedule_black_24dp.xml",
+        "source": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\src\\main\\res\\drawable\\ic_schedule_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\neroc\\AndroidStudioProjects\\KULUB_app\\ksk\\KULUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
